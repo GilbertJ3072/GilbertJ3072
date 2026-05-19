@@ -26,46 +26,31 @@ Mechatronic Engineering student and lab tech at Curtin University.
 ## 📫 Links
 
 <div align="left">
- <a href="https://open.spotify.com/artist/2o0LHtvivfgJ0hkUEovQE1" target="_blank" rel="noopener noreferrer">
-  <img
-    src="https://img.shields.io/badge/Spotify-171A21?style=for-the-badge&logo=spotify&logoColor=white"
-    height="35"
-    alt="Spotify"
-  />
-</a>
- &nbsp;&nbsp;
+  <a href="https://open.spotify.com/artist/2o0LHtvivfgJ0hkUEovQE1" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="35" alt="Spotify" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/jackggilbert/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=171A21&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
   &nbsp;&nbsp;
-
   <a href="https://www.linkedin.com/in/jack-gilbert-742687261/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=171A21&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   &nbsp;&nbsp;
-
- <a href="https://www.albumoftheyear.org/user/jackgilbert/" target="_blank">
-  <img src="https://img.shields.io/badge/AOTY-171A21?style=for-the-badge&logoColor=white" height="35" alt="album of the year badge" />
-</a>
+  <a href="https://www.albumoftheyear.org/user/jackgilbert/" target="_blank">
+    <img src="https://img.shields.io/badge/AOTY-4B5563?style=for-the-badge&logoColor=white" height="35" alt="album of the year badge" />
+  </a>
   &nbsp;&nbsp;
-
   <a href="https://letterboxd.com/GilbertJ/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Letterboxd&logo=letterboxd&label=&color=171A21&logoColor=white&style=for-the-badge" height="35" alt="letterboxd logo" />
+    <img src="https://img.shields.io/static/v1?message=Letterboxd&logo=letterboxd&label=&color=1B2A4A&logoColor=white&style=for-the-badge" height="35" alt="letterboxd logo" />
   </a>
   &nbsp;&nbsp;
-
   <a href="https://steamcommunity.com/profiles/76561198307066006/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=171A21&logoColor=white&style=for-the-badge" height="35" alt="steam logo" />
+    <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=1A5276&logoColor=white&style=for-the-badge" height="35" alt="steam logo" />
   </a>
-&nbsp;&nbsp;
-<a href="https://www.goodreads.com/user/show/96995907-jack" target="_blank" rel="noopener noreferrer">
-  <img
-    src="https://img.shields.io/badge/Goodreads-171A21?style=for-the-badge&logo=goodreads&logoColor=white"
-    height="35"
-    alt="Goodreads"
-  />
-</a>
-
-</div>
-</div
- 
+  &nbsp;&nbsp;
+  <a href="https://www.goodreads.com/user/show/96995907-jack" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Goodreads-C8B89A?style=for-the-badge&logo=goodreads&logoColor=3D2B1F" height="35" alt="Goodreads" />
+  </a>
+</div> 
