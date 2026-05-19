@@ -26,6 +26,14 @@ Mechatronic Engineering student and lab tech at Curtin University.
 ## 📫 Links
 
 <div align="left">
+ <a href="https://open.spotify.com/artist/2o0LHtvivfgJ0hkUEovQE1" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/Spotify-171A21?style=for-the-badge&logo=spotify&logoColor=white"
+    height="35"
+    alt="Spotify"
+  />
+</a>
+ &nbsp;&nbsp;
   <a href="https://www.instagram.com/jackggilbert/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=171A21&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
@@ -50,11 +58,14 @@ Mechatronic Engineering student and lab tech at Curtin University.
     <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=171A21&logoColor=white&style=for-the-badge" height="35" alt="steam logo" />
   </a>
 &nbsp;&nbsp;
-<a href="https://open.spotify.com/artist/2o0LHtvivfgJ0hkUEovQE1" target="_blank" rel="noopener noreferrer">
+<a href="https://www.goodreads.com/user/show/96995907-jack" target="_blank" rel="noopener noreferrer">
   <img
-    src="https://img.shields.io/badge/Spotify-171A21?style=for-the-badge&logo=spotify&logoColor=white"
+    src="https://img.shields.io/badge/Goodreads-171A21?style=for-the-badge&logo=goodreads&logoColor=white"
     height="35"
-    alt="Spotify"
+    alt="Goodreads"
   />
 </a>
+
 </div>
+</div
+ 
