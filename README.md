@@ -23,16 +23,30 @@ Mechatronic Engineering student and lab tech at Curtin University.
 | [MXEN2003](https://github.com/GilbertJ3072/MXEN2003) | Microcontrollers Project |
 | [MXEN3000](https://github.com/GilbertJ3072/MXEN3000) | Mechatronic Design Project |
 | [MXEN3005](https://github.com/GilbertJ3072/MXEN3005) | Robot Manipulation Project |
-
-
 ## 📫 Links
 
 <div align="left">
   <a href="https://www.instagram.com/jackggilbert/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
   &nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/jack-gilbert-742687261/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  &nbsp;&nbsp;
+
+ <a href="https://www.albumoftheyear.org/user/jackgilbert/" target="_blank">
+  <img src="https://img.shields.io/badge/AOTY-2B2B2B?style=for-the-badge&logoColor=white" height="35" alt="album of the year badge" />
+</a>
+  &nbsp;&nbsp;
+
+  <a href="https://letterboxd.com/GilbertJ/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Letterboxd&logo=letterboxd&label=&color=202830&logoColor=00E054&style=for-the-badge" height="35" alt="letterboxd logo" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://steamcommunity.com/profiles/76561198307066006/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=171A21&logoColor=white&style=for-the-badge" height="35" alt="steam logo" />
   </a>
 </div>
