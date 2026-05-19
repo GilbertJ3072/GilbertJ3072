@@ -27,26 +27,34 @@ Mechatronic Engineering student and lab tech at Curtin University.
 
 <div align="left">
   <a href="https://www.instagram.com/jackggilbert/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=171A21&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
   &nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/jack-gilbert-742687261/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=171A21&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   &nbsp;&nbsp;
 
  <a href="https://www.albumoftheyear.org/user/jackgilbert/" target="_blank">
-  <img src="https://img.shields.io/badge/AOTY-2B2B2B?style=for-the-badge&logoColor=white" height="35" alt="album of the year badge" />
+  <img src="https://img.shields.io/badge/AOTY-171A21?style=for-the-badge&logoColor=white" height="35" alt="album of the year badge" />
 </a>
   &nbsp;&nbsp;
 
   <a href="https://letterboxd.com/GilbertJ/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Letterboxd&logo=letterboxd&label=&color=202830&logoColor=00E054&style=for-the-badge" height="35" alt="letterboxd logo" />
+    <img src="https://img.shields.io/static/v1?message=Letterboxd&logo=letterboxd&label=&color=171A21&logoColor=white&style=for-the-badge" height="35" alt="letterboxd logo" />
   </a>
   &nbsp;&nbsp;
 
   <a href="https://steamcommunity.com/profiles/76561198307066006/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=171A21&logoColor=white&style=for-the-badge" height="35" alt="steam logo" />
   </a>
+&nbsp;&nbsp;
+<a href="https://open.spotify.com/artist/2o0LHtvivfgJ0hkUEovQE1" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/Spotify-171A21?style=for-the-badge&logo=spotify&logoColor=white"
+    height="35"
+    alt="Spotify"
+  />
+</a>
 </div>
