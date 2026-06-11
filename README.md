@@ -26,8 +26,8 @@ Mechatronic Engineering student and lab tech at Curtin University.
 ## 📫 Links
 
 <div align="left">
-  <a href="https://open.spotify.com/artist/2o0LHtvivfgJ0hkUEovQE1" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="35" alt="Spotify" />
+  <a href="https://jackgilbertmusic.bandcamp.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Bandcamp&logo=bandcamp&label=&color=white&logoColor=blue&style=for-the-badge" height="35" alt="Bandcamp" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/jackggilbert/" target="_blank">
