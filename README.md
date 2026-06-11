@@ -29,10 +29,10 @@ Mechatronic Engineering student and lab tech at Curtin University.
   <a href="https://jackgilbertmusic.bandcamp.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Bandcamp&logo=bandcamp&label=&color=white&logoColor=blue&style=for-the-badge" height="35" alt="Bandcamp" />
   </a>
-  &nbsp;&nbsp;
+  <!-- &nbsp;&nbsp;
   <a href="https://www.instagram.com/jackggilbert/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
+  </a> -->
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jack-gilbert-742687261/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
@@ -45,10 +45,10 @@ Mechatronic Engineering student and lab tech at Curtin University.
   <a href="https://letterboxd.com/GilbertJ/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Letterboxd&logo=letterboxd&label=&color=1B2A4A&logoColor=white&style=for-the-badge" height="35" alt="letterboxd logo" />
   </a>
-  &nbsp;&nbsp;
+  <!-- &nbsp;&nbsp;
   <a href="https://steamcommunity.com/profiles/76561198307066006/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=1A5276&logoColor=white&style=for-the-badge" height="35" alt="steam logo" />
-  </a>
+  </a> -->
   &nbsp;&nbsp;
   <a href="https://www.goodreads.com/user/show/96995907-jack" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Goodreads-C8B89A?style=for-the-badge&logo=goodreads&logoColor=3D2B1F" height="35" alt="Goodreads" />
