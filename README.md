@@ -16,13 +16,15 @@ Mechatronic Engineering student and lab tech at Curtin University.
 | [COMP1002](https://github.com/GilbertJ3072/COMP1002) | Data Structures and Algorithms |
 | [COMP1005](https://github.com/GilbertJ3072/COMP1005) | Fundamentals of Programming |
 | [COMP3010](https://github.com/GilbertJ3072/COMP3010) | Machine Learning |
+| [CMPE3001](https://github.com/GilbertJ3072/CMPE3001) | Embedded Systems Engineering |
  
-### 🔧 Mechanical & Electrical Engineering
+### 🔧 Mechatronics Engineering Projects
 | Repo | Unit |
 |------|------|
 | [MXEN2003](https://github.com/GilbertJ3072/MXEN2003) | Microcontrollers Project |
 | [MXEN3000](https://github.com/GilbertJ3072/MXEN3000) | Mechatronic Design Project |
 | [MXEN3005](https://github.com/GilbertJ3072/MXEN3005) | Robot Manipulation Project |
+| [MXEN3002](https://github.com/GilbertJ3072/MXEN3002) | Mechatronic Automation Project |
 ## 📫 Links
 
 <div align="left">
